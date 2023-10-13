@@ -1,0 +1,13 @@
+*.out
+*.log
+*.yaml
+*.json
+*.pt
+*.tab
+*.pyc
+*.pth
+
+./src/data
+./src/result
+
+.venv
